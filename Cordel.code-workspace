@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Cordel",
+			"path": "."
+		},
+		{
+			"name": "imagens",
+			"path": "../Curso em video/HTML CSS/projeto-cordel-master/imagens"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cordel"
+	}
+}
